@@ -12,8 +12,6 @@
     <br />
     <a href="https://github.com/dudor/BookmarkHub/issues">Feedback</a>
     ·
-    <a href="/README_cn.md">简体中文</a>
-    ·
     <a href="/README.md">English</a>
   </p>
 </p>
@@ -90,9 +88,6 @@ See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-dudor
+leechwkt
 
-Project Link: [https://github.com/dudor/BookmarkHub](https://github.com/dudor/BookmarkHub)
-
-
-
+Project Link: [https://github.com/leechwkt/BookmarkHub](https://github.com/leechwkt/BookmarkHub)
